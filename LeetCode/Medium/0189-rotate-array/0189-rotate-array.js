@@ -4,13 +4,20 @@
  * @return {void} Do not return anything, modify nums in-place instead.
  */
 var rotate = function(nums, k) {
-   let arr = [...nums]
-   k = k % nums.length;
-   let index
-   for(let i=0;i<nums.length;i++){
-    index=(i+k)%nums.length
-    nums[index]=arr[i]
+   
+   function rot(l,r){
+    while(l<r){
+        temp=nums[l]
+        nums[l]=nums[r]
+        nums[r]=temp
+        l++
+        r--
+    }
    }
+   k=k%nums.length
+   rot(0,nums.length-1)
+   rot(0,k-1)
+   rot(k,nums.length-1)
   
     
 };
