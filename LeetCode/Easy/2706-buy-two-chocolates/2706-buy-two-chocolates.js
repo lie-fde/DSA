@@ -1,0 +1,11 @@
+/**
+ * @param {number[]} prices
+ * @param {number} money
+ * @return {number}
+ */
+var buyChoco = function (prices, money) {
+   prices.sort((a,b)=>a-b)
+   let sum=prices[0]+prices[1]
+   if(sum<=money) return money-sum
+   return money
+};
