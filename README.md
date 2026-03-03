@@ -15,10 +15,12 @@ Leetcode Challenge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +29,9 @@ Leetcode Challenge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
