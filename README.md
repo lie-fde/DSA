@@ -23,6 +23,7 @@ Leetcode Challenge
 | ------- | ------- |
 | [0100-same-tree](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
+| [0133-clone-graph](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
 | [0226-invert-binary-tree](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Breadth-First Search
@@ -30,6 +31,7 @@ Leetcode Challenge
 | ------- | ------- |
 | [0100-same-tree](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
+| [0133-clone-graph](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
 | [0226-invert-binary-tree](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -42,4 +44,12 @@ Leetcode Challenge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
