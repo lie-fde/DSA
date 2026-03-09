@@ -48,8 +48,17 @@ Leetcode Challenge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 <!---LeetCode Topics End-->
