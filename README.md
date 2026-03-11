@@ -64,4 +64,16 @@ Leetcode Challenge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0016-3sum-closest](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
