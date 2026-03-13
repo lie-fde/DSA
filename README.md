@@ -78,4 +78,8 @@ Leetcode Challenge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
