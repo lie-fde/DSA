@@ -82,4 +82,12 @@ Leetcode Challenge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
 <!---LeetCode Topics End-->
