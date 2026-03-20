@@ -62,10 +62,12 @@ Leetcode Challenge
 | ------- | ------- |
 | [0917-reverse-only-letters](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
