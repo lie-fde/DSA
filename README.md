@@ -81,6 +81,7 @@ Leetcode Challenge
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
