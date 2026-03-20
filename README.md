@@ -51,6 +51,7 @@ Leetcode Challenge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
+| [0202-happy-number](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ Leetcode Challenge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
+| [0202-happy-number](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0917-reverse-only-letters](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -83,6 +85,7 @@ Leetcode Challenge
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
+| [0202-happy-number](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
