@@ -22,6 +22,7 @@ Leetcode Challenge
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
@@ -60,6 +61,7 @@ Leetcode Challenge
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0917-reverse-only-letters](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
@@ -72,6 +74,7 @@ Leetcode Challenge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0016-3sum-closest/) | Medium |
+| [0079-word-search](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +101,12 @@ Leetcode Challenge
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0024-swap-nodes-in-pairs/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
