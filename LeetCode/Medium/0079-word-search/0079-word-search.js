@@ -6,7 +6,6 @@
 
 
 var exist = function (board, word) {
-    let found
     let row = board.length
     let col = board[0].length
     const dfs = (i, j, k) => {
