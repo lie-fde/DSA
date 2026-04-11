@@ -55,6 +55,7 @@ Leetcode Challenge
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
 | [0202-happy-number](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
+| [0290-word-pattern](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ Leetcode Challenge
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/lie-fde/DSA/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0290-word-pattern](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0290-word-pattern/) | Easy |
 | [0917-reverse-only-letters](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/0917-reverse-only-letters/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/lie-fde/DSA/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
